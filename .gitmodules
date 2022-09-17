@@ -1,0 +1,30 @@
+[submodule "upstream/cpp-base64"]
+	path = upstream/cpp-base64
+    url = https://gitlab.com/gerbolyze/gerbolyze-cpp-base64.git
+[submodule "upstream/voronoi"]
+	path = upstream/voronoi
+	url = https://github.com/JCash/voronoi
+[submodule "upstream/poisson-disk-sampling"]
+	path = upstream/poisson-disk-sampling
+	url = https://github.com/thinks/poisson-disk-sampling
+[submodule "upstream/argagg"]
+	path = upstream/argagg
+    url = https://gitlab.com/gerbolyze/gerbolyze-argagg.git
+[submodule "upstream/CavalierContours"]
+	path = upstream/CavalierContours
+	url = https://github.com/jbuckmccready/CavalierContours
+[submodule "upstream/subprocess.h"]
+	path = upstream/subprocess.h
+	url = https://github.com/sheredom/subprocess.h
+[submodule "svg-flatten/upstream/minunit"]
+	path = upstream/minunit
+	url = https://github.com/siu/minunit
+[submodule "upstream/stb"]
+	path = upstream/stb
+	url = https://github.com/nothings/stb
+[submodule "upstream/filesystem"]
+	path = upstream/filesystem
+	url = https://github.com/gulrak/filesystem
+[submodule "upstream/pugixml"]
+	path = upstream/pugixml
+	url = https://github.com/zeux/pugixml
